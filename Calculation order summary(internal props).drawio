@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T03:12:00.056Z" agent="5.0 (X11)" etag="2Vj3YFeNnTzBdUxdexZE" version="16.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T03:17:01.418Z" agent="5.0 (X11)" etag="XNK371Zvq_Gb79Ta6-ZR" version="16.6.7" type="github">
   <diagram id="Y3Ub-ZhA2BGGuwcPTwrd" name="Page-1">
     <mxGraphModel dx="1182" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="583" background="none" math="0" shadow="1">
       <root>
@@ -41,17 +41,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wSs9KvBMF2s4D5KCSqFX-12" value="&lt;div&gt;&amp;nbsp;material, diameter,&lt;/div&gt;&lt;div&gt;type&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1.017;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="wSs9KvBMF2s4D5KCSqFX-5" source="wSs9KvBMF2s4D5KCSqFX-4">
+        <mxCell id="wSs9KvBMF2s4D5KCSqFX-12" value="&lt;div&gt;diameter,&lt;/div&gt;&lt;div&gt;type&lt;/div&gt;" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;exitX=1.017;exitY=0.153;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1" target="wSs9KvBMF2s4D5KCSqFX-5" source="wSs9KvBMF2s4D5KCSqFX-4">
           <mxGeometry x="0.0335" y="-16" width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="210" as="sourcePoint" />
             <mxPoint x="329" y="210" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wSs9KvBMF2s4D5KCSqFX-14" value="material" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wSs9KvBMF2s4D5KCSqFX-4" target="wSs9KvBMF2s4D5KCSqFX-2" edge="1">
-          <mxGeometry x="-0.8626" y="26" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="140" as="sourcePoint" />
-            <mxPoint x="310" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -59,6 +52,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="109.5" as="sourcePoint" />
             <mxPoint x="640" y="109.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wSs9KvBMF2s4D5KCSqFX-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wSs9KvBMF2s4D5KCSqFX-4" target="wSs9KvBMF2s4D5KCSqFX-2" edge="1">
+          <mxGeometry x="-0.6966" y="-1" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="140" as="sourcePoint" />
+            <mxPoint x="310" y="180" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wSs9KvBMF2s4D5KCSqFX-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="wSs9KvBMF2s4D5KCSqFX-5" target="wSs9KvBMF2s4D5KCSqFX-6" edge="1">
@@ -94,8 +94,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yFAOjsBSRRLivHImmWXc-1" value="&lt;div align=&quot;left&quot;&gt;Not Shown: &lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;Kp, Kd, milling &amp;amp; Drilling per Stock material power constants, &lt;br&gt;&amp;amp; other global constants &lt;/li&gt;&lt;li&gt;vFeed&lt;/li&gt;&lt;li&gt;Chip thinning&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="80" y="360" width="370" height="100" as="geometry" />
+        <mxCell id="yFAOjsBSRRLivHImmWXc-1" value="&lt;div style=&quot;font-size: 11px;&quot; align=&quot;left&quot;&gt;Not Shown: &lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/div&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;Kp, Kd, milling &amp;amp; Drilling per Stock material power constants, &lt;br style=&quot;font-size: 11px;&quot;&gt;&amp;amp; other global constants &lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;vFeed&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;Chip thinning&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="80" y="370" width="370" height="90" as="geometry" />
         </mxCell>
         <mxCell id="l-Jscajrs8cuYaz8yDVQ-1" value="Material" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="80" width="80" height="30" as="geometry" />
@@ -110,6 +110,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="75" as="sourcePoint" />
             <mxPoint x="240" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l-Jscajrs8cuYaz8yDVQ-4" value="material" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="wSs9KvBMF2s4D5KCSqFX-5">
+          <mxGeometry x="-0.5309" y="5" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="210" as="sourcePoint" />
+            <mxPoint x="220" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
